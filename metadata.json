@@ -1,0 +1,9 @@
+{
+  "name": "SmartSpeak AI",
+  "description": "Interactive AI speech trainer with recording analysis, role onboarding, mock interviews, emotion analytics, and live debates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
